@@ -19,7 +19,7 @@ The contract information is valid as of February 1, 2020.
 
 ## Notes
 
-* An acknowledgement that ideally the evaluation metric for this project should've been more than just AUC-ROC. Accuracy score would've been included as an additional metric if I were to revisit this project
+* I recognize that ideally the evaluation metric for this project should've been more than just AUC-ROC. Accuracy score would've been included as an additional metric if I were to revisit this project
 
 ## Tools
 
